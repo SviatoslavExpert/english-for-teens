@@ -1,0 +1,20 @@
+{
+	"lessons": [
+		{
+			"lessonId": "1A",
+            "lessonLevel": "Starter",
+			"lessonName": "Hello",
+			"lessonLink": "https://www.youtube.com/emb",
+            "lessonText": "some text here",
+            "lessonDescription": "This lesson will introduce you to ..."
+		},
+        {
+			"lessonId": "1B",
+            "lessonLevel": "Starter",
+			"lessonName": "How are you",
+			"lessonLink": "https://www.youtube.com/emb",
+            "lessonText": "some text here",
+            "lessonDescription": "This lesson will introduce you to ..."
+        }
+    ]
+}
